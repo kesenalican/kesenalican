@@ -33,7 +33,4 @@ Here are some ideas to get you started:
 <img src=”https://komarev.com/ghpvc/?username=TaylanCann&label=stalkers&color=grey" />
 </p>
 
-<h3 align=”center”> look mom i can write </h3>
-<p align=”center”>
-<img src=”https://github-readme-stats.vercel.app/api/top-langs/?username=taylancann&layout=compact" />
-</p>
+
