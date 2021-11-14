@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> I am Alican </h1>
 
-<h3 align=”center”> I am studying Computer Engineering at Selcuk Univesity. My interests that Web & Mobile.  </h3>
+<h3 align=”center”> I am studying Computer Engineering at Selcuk Univesity in Turkey. My interests that Web & Mobile tech. </h3>
 <p align=”center”>
 <img src=”https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width=”500" height=”150" />
 </p>
