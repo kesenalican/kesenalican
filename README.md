@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 942alicankesen@gmail.com
 - 😄 Technologies: Flutter, Dart, HTML, CSS, Javascript, C#, SQL, Firebase
 - ⚡ Fun fact: Guitarist 😄
-<h1 align="center"> I am Alican </h1>
+<!-- <h1 align="center"> I am Alican </h1> -->
 
 <!-- <h3 align=”center”> I am studying Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech. </h3>
 <p align=”center”>
