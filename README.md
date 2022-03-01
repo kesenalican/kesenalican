@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m studying Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech.
+- 👉 I’m studying Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech.
 - 🔭 I’m currently working on .NET Core
 - 🌱 I’m currently learning .NET Core
 - 💬 Ask me about Mobile & Web Technologies
