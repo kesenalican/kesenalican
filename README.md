@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 - 👉 I’m studying Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech.
-- 🔭 I’m currently working on C# & Vue.js
+- 🔭 I’m currently working on Flutter & Web API
 - 🌱 I’m currently learning .NET Core & Vue.js
 - 💬 Ask me about Mobile & Back-end Technologies
 - 📫 How to reach me: 942alicankesen@gmail.com
