@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👉 I’m studying Information Management Systems at Gaziantep University as Master's Degree in Turkey. My interests that Web & Mobile tech.
+- 👉 I’m studying Information Management Systems at Gaziantep University as Master's Degree in Turkey. 
 - 👉 I graduated Computer Engineering at Selcuk University in Turkey.
 - 👉 My interests that Web & Mobile tech.
 - 🔭 I’m currently working on Flutter & Web API
