@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 👉 I’m studying Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech.
+- 👉 I’m studying Information Management Systems at Gaziantep University as Maaster in Turkey. My interests that Web & Mobile tech.
 - 🔭 I’m currently working on Flutter & Web API
 - 🌱 I’m currently learning .NET Core & Vue.js
 - 💬 Ask me about Mobile & Back-end Technologies
@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Guitarist 😄
 <!-- <h1 align="center"> I am Alican </h1> -->
 
-<!-- <h3 align=”center”> I am studying Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech. </h3>
+<!-- <h3 align=”center”> I graduated Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech. </h3>
+<!-- <h3 align=”center”> I am studying as a master's degree student in the Department of Management Information Systems at Gaziantep University. </h3>
+<!-- <h3 align=”center”> My interests that Web & Mobile tech. </h3>
 <p align=”center”>
 <img src=”https://hackster.imgix.net/uploads/attachments/1097058/Dino_non-birthday_version-1.gif?auto=compress&gifq=35&w=680&h=510&fit=max" width=”500" height=”150" />
 </p>
