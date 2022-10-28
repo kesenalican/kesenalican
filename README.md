@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Technologies: Flutter, Dart, HTML, CSS, Javascript, C#, SQL, Firebase
 - ⚡ Fun fact: Guitarist 😄
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesenalican&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kesenalican&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kesenalican&layout=compact)])
 <!-- <h1 align="center"> I am Alican </h1> -->
 
 <!-- <h3 align=”center”> I graduated Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech. </h3>
