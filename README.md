@@ -9,7 +9,7 @@ I’m studying Information Management Systems at Gaziantep University as Master'
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [942alicankesen@gmail.com](mailto:942alicankesen@gmail.com)
 * 🚀  I'm currently working on [Flutter](http://github.com/kesenalican/dinamik-otomasyonv2)
-* 🧠  I'm learning .NET Core & Flutter
+* 🧠  I'm learning .NET Core & Kotlin
 * 🤝  I'm open to collaborating on Mobile & Web API projects
 * ⚡  Fun fact: Guitarist 😄
 
