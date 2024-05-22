@@ -4,7 +4,7 @@ Hi 👋 My name is Alican
 Full Stack Mobile Developer
 ---------------------------
 
-I’m studying Information Management Systems at Gaziantep University as Master's Degree in Turkey. I graduated Computer Engineering at Selcuk University in Turkey. My interests that Web & Mobile tech.
+I’m studying Information Management Systems at Gaziantep University as Master's Degree in Turkey. I graduated Computer Engineering at Selcuk University in Turkey. My interests that Backend & Mobile tech.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [942alicankesen@gmail.com](mailto:942alicankesen@gmail.com)
